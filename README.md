@@ -16,7 +16,7 @@ Please note the following before you use this content:
 
 ## Getting Started
 - There are two types of content here
-	- [Tools] : There's a tool for every occasion; from managing your collectors and data volume to processing rules, and everyones favorite: regular expressions.
+	- [Tools] : There's a tool for every occasion; from managing your collectors and data volume to processing rules, and everyone's favorite: regular expressions.
 
 	- [Content] : Content that helps extract instant value from a variety of data streams. This content typically includes pre-built dashboards, alerts, and extraction rules.
 
